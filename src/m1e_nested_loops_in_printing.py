@@ -64,7 +64,6 @@ def classic_example_2(n):
             print(i + 1, j + 1, '=', (i + 1) * (j + 1))
         print()
 
-
 def classic_example_3(n, m):
     """
     Prints a multiplication table for numbers from 1 to n multiplied
